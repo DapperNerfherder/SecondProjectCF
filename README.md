@@ -1,4 +1,4 @@
 # Second Project
-My second project. Learning Git. Hello Everyone.
+My second project. Learning Git. Hello Everyone. More details.
 
 
